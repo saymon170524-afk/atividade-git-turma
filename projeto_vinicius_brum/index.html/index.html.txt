@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Projeto do vinicius 1</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+        <h1>Projeot do vinicius brum</h1>
+
+        <p>Atividade pratica utilizando git e github</p>
+    </body>
+</html>
